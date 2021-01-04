@@ -5,7 +5,7 @@
     "main": "index.js",
     "author": "jianggy <jianggy93@126.com>",
     "license": "MIT",
-    "private": true,
+    "private": false,
     "scripts": {
         "bootstrap": "yarn",
         "start": "webpack serve --config ./build/webpack.dev.ts",

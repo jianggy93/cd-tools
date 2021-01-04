@@ -2,6 +2,6 @@ import React from 'react';
 import { render } from 'react-dom';
 import 'antd/dist/antd.less';
 
-import App from './App';
+import Statistics from './pages/statistics';
 
-render(<App />, document.querySelector('#app'));
+render(<Statistics />, document.querySelector('#app'));

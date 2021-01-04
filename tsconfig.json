@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "baseUrl": "./",
+        "target": "ES5",
+        "module": "CommonJS",
+        "removeComments": true,
+        "esModuleInterop": true,
+        "jsx": "preserve",
+        "sourceMap": true,
+        "paths": {
+            "@/*": ["src/*"]
+        }
+    }
+}

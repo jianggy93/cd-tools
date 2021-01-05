@@ -20,7 +20,7 @@ const config = merge(baseConfig, {
         proxy,
         hot: true,
         open: true,
-        port: 3000,
+        port: 4000,
         host: 'localhost',
         contentBase: '../dist',
     },
